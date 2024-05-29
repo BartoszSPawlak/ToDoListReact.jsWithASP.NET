@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\",
+  "WorkspaceRootPath": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todoreactwithserver\\todoapi\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todolistreactwithserver\\todolistreactwithserver\\todoapi\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|solutionrelative:todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todoreactwithserver\\todoapi\\todoapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todolistreactwithserver\\todolistreactwithserver\\todoapi\\todoapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|solutionrelative:todoapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todoreactwithserver\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todolistreactwithserver\\todolistreactwithserver\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todoreactwithserver\\todoapi\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todolistreactwithserver\\todolistreactwithserver\\todoapi\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|solutionrelative:todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todoreactwithserver\\todoapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todolistreactwithserver\\todolistreactwithserver\\todoapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todoreactwithserver\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todolistreactwithserver\\todolistreactwithserver\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todoreactwithserver\\todoapi\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|c:\\frontend and backend\\todolistreactwithserver\\todolistreactwithserver\\todoapi\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A3BF22C6-8F34-4108-8266-C90FD9B9D3F5}|todoAPI\\todoAPI.csproj|solutionrelative:todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -44,35 +44,33 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ToDoDbContext.cs",
-              "DocumentMoniker": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\ToDoDbContext.cs",
               "RelativeDocumentMoniker": "todoAPI\\ToDoDbContext.cs",
-              "ToolTip": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\ToDoDbContext.cs",
+              "ToolTip": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\ToDoDbContext.cs",
               "RelativeToolTip": "todoAPI\\ToDoDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T15:34:38.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T15:34:38.029Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\Models\\Item.cs",
+              "DocumentMoniker": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\Models\\Item.cs",
               "RelativeDocumentMoniker": "todoAPI\\Models\\Item.cs",
-              "ToolTip": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\Models\\Item.cs",
+              "ToolTip": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\Models\\Item.cs",
               "RelativeToolTip": "todoAPI\\Models\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T14:39:17.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T14:39:17.541Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "todoAPI.csproj",
-              "DocumentMoniker": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
+              "DocumentMoniker": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
               "RelativeDocumentMoniker": "todoAPI\\todoAPI.csproj",
-              "ToolTip": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
+              "ToolTip": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
               "RelativeToolTip": "todoAPI\\todoAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -82,9 +80,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ToDoController.cs",
-              "DocumentMoniker": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\Controllers\\ToDoController.cs",
+              "DocumentMoniker": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\Controllers\\ToDoController.cs",
               "RelativeDocumentMoniker": "todoAPI\\Controllers\\ToDoController.cs",
-              "ToolTip": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\Controllers\\ToDoController.cs",
               "RelativeToolTip": "todoAPI\\Controllers\\ToDoController.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAiwDMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,22 +93,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\Program.cs",
               "RelativeDocumentMoniker": "todoAPI\\Program.cs",
-              "ToolTip": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\Program.cs",
+              "ToolTip": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\Program.cs",
               "RelativeToolTip": "todoAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T14:00:18.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T14:00:18.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "todoAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "todoAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -120,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\appsettings.json",
               "RelativeDocumentMoniker": "todoAPI\\appsettings.json",
-              "ToolTip": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\appsettings.json",
+              "ToolTip": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\appsettings.json",
               "RelativeToolTip": "todoAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

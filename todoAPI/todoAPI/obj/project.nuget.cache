@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TwUKAzwnba7n53t//HTrmNFRql1w62kzdaKIPa2GBeT1s3NMWxwUK9FXLEoxmvRUvOf5znHbXL9tiQlGnjumMw==",
+  "dgSpecHash": "sFl1ZakDtUle8koO924LyQ7ZXR5x82H6g2OBk3W0LssBSoC9VM3i85dShBoNh7k3QFeCREhCeTEl8RqsL1BN0g==",
   "success": true,
-  "projectFilePath": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
+  "projectFilePath": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bartosz\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Bartosz\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

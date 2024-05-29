@@ -4156,11 +4156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
+      "projectUniqueName": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
       "projectName": "todoAPI",
-      "projectPath": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
+      "projectPath": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\todoAPI.csproj",
       "packagesPath": "C:\\Users\\Bartosz\\.nuget\\packages\\",
-      "outputPath": "C:\\Frontend and Backend\\todoReactWithServer\\todoAPI\\todoAPI\\obj\\",
+      "outputPath": "C:\\Frontend and Backend\\ToDoListReactWithServer\\ToDoListReactWithServer\\todoAPI\\todoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
